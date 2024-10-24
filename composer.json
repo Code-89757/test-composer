@@ -1,0 +1,18 @@
+{
+    "name": "zzj/test-composer",
+    "description": "test",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Zzj\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zzj",
+            "email": "zhaozhijun@gm825.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
